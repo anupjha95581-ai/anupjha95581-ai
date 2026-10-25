@@ -1,15 +1,104 @@
-# 💫 About Me:
-Programming Fundamentals<br>Strong grasp of problem solving using C and C++, with experience in writing efficient and structured code.<br><br>Scripting and High-Level Languages<br>Working knowledge of Python for automation, basic data handling, and logic implementation.<br><br>Web Technologies<br>Hands-on experience with HTML, CSS, and JavaScript, and understanding of responsive design and frontend-backend interaction.<br><br>Data Structures and Algorithms (Basic)<br>Familiar with arrays, strings, recursion, searching, sorting, and basic complexity analysis.<br><br>Software Development Basics<br>Understanding of code modularity, debugging, version control concepts, and clean coding practices.<br><br>Problem Solving and Logical Thinking<br>Ability to analyze requirements, break problems into steps, and implement reliable solutions.<br><br>
+<div align="center">
 
+# Hi, I'm Anup Indrakant Jha 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anupjha95581-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anupjha95581-ai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anupjha95581-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Electronics & Communication Engineering Student · Backend Developer · IoT & Digital Design Enthusiast
 
----
-[![](https://visitcount.itsvg.in/api?id=anupjha95581-ai&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>
+  <a href="https://github.com/anupjha95581-ai"><img src="https://img.shields.io/badge/GitHub-anupjha95581--ai-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/anup-jha-215566373"><img src="https://img.shields.io/badge/LinkedIn-Anup%20Jha-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:anupjha95581@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## About Me
+
+I am a B.Tech Electronics & Communication Engineering student at **NIT Goa**, expected to graduate in **2028**. I enjoy building practical software and hardware systems that connect backend engineering, IoT, machine learning, and digital electronics.
+
+- 🎓 B.Tech in Electronics & Communication Engineering at **NIT Goa**
+- 📚 Current CGPA: **8.2 / 10.0**
+- 💻 Interested in backend systems, REST APIs, IoT automation, and digital ASIC design
+- 🔧 Comfortable working with C/C++, Python, JavaScript, Node.js, and embedded systems
+- 🚀 Currently building projects that combine software with real-world hardware applications
+
+## What I Work With
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Verilog](https://img.shields.io/badge/Verilog-333333?style=for-the-badge&logoColor=white)
+
+### Backend & Web Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+- REST API design and backend architecture
+- JWT authentication and protected routes
+- MongoDB, Mongoose, and aggregation pipelines
+- File uploads with Multer and Cloudinary
+- Frontend development with React and Vite
+
+### Hardware, IoT & Design
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- ESP32-based IoT systems and MQTT communication
+- Sensor data collection and machine monitoring
+- Verilog HDL and digital design workflows
+- OpenLane and SkyWater 130nm PDK
+- MATLAB and Wokwi-based simulation
+
+## Featured Projects
+
+### [StreamTube — Video Sharing Platform Backend](https://github.com/anupjha95581-ai/Backend_YT)
+
+A YouTube-inspired backend built with Node.js, Express, and MongoDB. The project includes modular backend architecture, JWT access and refresh token authentication, protected routes, Cloudinary media uploads, and MongoDB aggregation pipelines.
+
+**Technologies:** Node.js · Express.js · MongoDB · Mongoose · JWT · Cloudinary
+
+### [Vibration Predictive Maintenance System](https://github.com/anupjha95581-ai/vibration-predictive-maintenance)
+
+An IoT-based predictive maintenance system for monitoring machine vibration and identifying abnormal operating conditions. The project combines ESP32 hardware, MQTT communication, Python-based processing, machine learning, and CWRU bearing data.
+
+**Technologies:** ESP32 · C++ · MQTT · Python · Machine Learning · Wokwi
+
+### [Personal Portfolio](https://github.com/anupjha95581-ai/PORTFOLIO)
+
+A responsive single-page portfolio website presenting my education, technical skills, featured projects, and contact details using HTML, CSS, and vanilla JavaScript.
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anupjha95581-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Anup's GitHub statistics" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupjha95581-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Anup's top languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anupjha95581-ai&theme=tokyonight&hide_border=true" alt="Anup's GitHub streak">
+</p>
+
+## Let's Connect
+
+I am open to discussing backend development, IoT projects, digital design, open-source collaboration, and internship opportunities.
+
+- **Email:** [anupjha95581@gmail.com](mailto:anupjha95581@gmail.com)
+- **LinkedIn:** [linkedin.com/in/anup-jha-215566373](https://linkedin.com/in/anup-jha-215566373)
+- **GitHub:** [github.com/anupjha95581-ai](https://github.com/anupjha95581-ai)
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=anupjha95581-ai&color= blueviolet&style=flat-square)
+
+</div>
