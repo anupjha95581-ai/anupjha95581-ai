@@ -148,7 +148,7 @@ Projects that connect software, electronics, data, and automation to solve pract
 
 ## 🤝 Let's Connect
 
-I am open to discussing backend development, IoT projects, digital design, open-source collaboration, and internship opportunities.
+I enjoy discussing backend development, IoT, digital design, open source, and internship opportunities.
 
 <p>
   <a href="mailto:anupjha95581@gmail.com">📧 Email</a> ·
